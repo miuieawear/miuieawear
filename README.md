@@ -9,7 +9,6 @@ Passionate about UI, performance & clean code.
 
 
  <br>  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uveshm003" alt="uveshm003" /> </p> <br /> 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Improving myself.
 - 🌱 I’m currently exploring Philosophy.
